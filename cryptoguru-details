@@ -5,7 +5,7 @@
   <meta charset="utf-8">
   <meta content="width=device-width, initial-scale=1.0" name="viewport">
 
-  <title>Portfolio Details | Muhammad Sulman Gull</title>
+  <title>CryptoGuru Latino Details | Muhammad Sulman Gull</title>
   <meta content="" name="description">
   <meta content="" name="keywords">
 
@@ -44,7 +44,7 @@
               <div class="swiper-wrapper align-items-center">
 
                 <div class="swiper-slide">
-                  <img src="assets/img/portfolio/Pubfluence.jpg" alt="">
+                  <img src="assets/img/portfolio/CryptoGuru Latino.jpg" alt="">
                 </div>
               </div>
               <div class="swiper-pagination"></div>
@@ -56,7 +56,22 @@
             <div class="portfolio-description">
               <h2>Project Description</h2>
               <p>
-               Details
+                • Crypto Guru Lateno is a chatting app designed for cryptocurrency enthusiasts built on Android SDK and Java.<br>
+                • The app provides a platform for one-to-one chat, group conversations, and forums.<br>
+                • All chats within the app are encrypted using a custom-made encryption algorithm.<br>
+                • Crypto Guru Lateno is built on the Firebase platform, ensuring secure and reliable communication.<br>
+                • Users can engage in discussions, share insights, and exchange information about various cryptocurrencies.<br>
+                • The app allows users to stay updated on the latest trends, news, and developments in the cryptocurrency market.<br>
+                • Crypto Guru Lateno offers a user-friendly interface for seamless communication and networking.<br>
+                • The app facilitates connections among individuals with a shared interest in cryptocurrencies.<br>
+                • It provides a space for learning, sharing experiences, and seeking advice within the crypto community.<br>
+                • Crypto Guru Lateno enhances collaboration and knowledge-sharing among cryptocurrency enthusiasts.<br>
+                 
+                <br><b>Outcomes</b><br>
+                Crypto Guru Lateno aims to provide a secure and engaging chatting app for cryptocurrency enthusiasts, fostering communication, collaboration, and knowledge-sharing within the crypto community. By offering a range of features and utilizing encryption technology, the project aims to create a valuable and reliable platform for crypto enthusiasts to connect, learn, and grow together.<br>
+                <br><b>Tech Stack Used</b><br>
+                Android App Development with Java<br>
+                Firebase<br>
               </p>
             </div>
           </div>
