@@ -27,6 +27,7 @@
   <a class="brand" href="#top">Sulman Gull</a>
   <ul>
     <li><a href="#apps">Apps</a></li>
+    <li class="opt"><a href="#open-source">Open source</a></li>
     <li><a href="#work">Work</a></li>
     <li class="opt"><a href="#earlier">Earlier</a></li>
     <li><a href="#experience">Experience</a></li>
@@ -100,10 +101,30 @@
         <a class="more" href="https://play.google.com/store/apps/details?id=com.techoship.qorvynrun">Google Play →</a>
       </div>
     </article>
+  </div>
+</section>
+
+<!-- ============ OPEN SOURCE ============ -->
+<section id="open-source">
+  <h2>Open source</h2>
+  <p class="sub">Libraries and tools I created and maintain, published under Techoship.</p>
+  <div class="grid">
+    <article class="card">
+      <img src="img/work/webview-bridge.jpg" alt="Android WebView Bridge sample app and print dialog" loading="lazy" width="1024" height="768">
+      <div class="body">
+        <span class="tag">Creator · Android library · MIT</span>
+        <h3>Android WebView Bridge</h3>
+        <p>Makes a web app work inside an Android WebView, with no changes to the web app: <code>window.print()</code>
+          opens the print dialog, blob, data and link downloads land in Downloads, and the page can sell
+          through Google Play Billing. Only origins the app allows get the bridge.</p>
+        <div class="chips"><span>Kotlin</span><span>WebView</span><span>Play Billing</span><span>JavaScript</span></div>
+        <a class="more" href="https://github.com/Techoship/android-webview-bridge">Source on GitHub →</a>
+      </div>
+    </article>
     <article class="card">
       <img src="img/work/reloader.jpg" alt="Random URL Reloader popup and countdown" loading="lazy" width="1024" height="768">
       <div class="body">
-        <span class="tag">Open source · MIT</span>
+        <span class="tag">Creator · Chrome extension · MIT</span>
         <h3>Random URL Reloader</h3>
         <p>A Chrome extension that reloads a tab, or rotates it through URLs, on a fixed or random interval,
           with one session per tab. It's Manifest V3 vanilla JS, built to survive service-worker suspension.</p>
